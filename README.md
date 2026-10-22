@@ -1,2 +1,2 @@
 # python
-برای اجری کد ها و تغییر آنها از سایت https://colab.research.google.com/ استفاده کنید
+برای اجری کد ها از سایت https://colab.research.google.com استفاده کنید.
